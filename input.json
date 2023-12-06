@@ -1,0 +1,26 @@
+{
+  "paper_name": "paper1",
+  "date": "2077/01/01",
+  "products": [
+    {
+      "name": "product1",
+      "stars": "550",
+      "title": "title1",
+      "description": "description1",
+      "visit_url": "visit_url.com",
+      "product_hunt_url": "product_hunt_url.com",
+      "comments": { "commentor1": "comment1", "commentor2": "comment2" },
+      "my_comment": "ws_comment"
+    },
+    {
+      "name": "product1",
+      "stars": "550",
+      "title": "title1",
+      "description": "description1",
+      "visit_url": "visit_url.com",
+      "product_hunt_url": "product_hunt_url.com",
+      "comments": { "commentor1": "comment1", "commentor2": "comment2" },
+      "my_comment": "ws_comment"
+    }
+  ]
+}
